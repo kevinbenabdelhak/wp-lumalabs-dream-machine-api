@@ -3,7 +3,7 @@
 Plugin Name: WP Lumalabs Dream Machine API
 Plugin URI: https://kevin-benabdelhak.fr/plugins/wp-lumalabs-dream-machine-api/
 Description: Générez des vidéos IA directement dans l'éditeur de WordPress en sélectionnant une image ou un texte
-Version: 1.0
+Version: 1.1
 Author: Kevin Benabdelhak
 Author URI: https://kevin-benabdelhak.fr/
 Contributors: kevinbenabdelhak
