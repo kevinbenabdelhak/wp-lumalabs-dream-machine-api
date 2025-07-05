@@ -1,0 +1,27 @@
+/* correction temporaire sur le plugin ideogram, ligne css sera supprimé prochaine v */
+.wp-ideogram-generate-button {
+    display: inline !important;
+    position: relative !important;
+    z-index: 100000000 !important;
+    top: 0 !important;
+    left: 0 !important;
+    margin: 0px !important;
+}
+
+
+/* lumalabs*/
+.wp-lumalabs-generate-button {
+    margin-left: 5px !important;
+}
+
+.wp-lumalabs-loader {
+    position: fixed;
+    top: 40px;
+    right: 270px;
+    padding: 10px;
+    background-color: #c21826;
+    color: #fff;
+    border: 1px solid #ccc;
+    z-index: 10000;
+    display: none;
+}
